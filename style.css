@@ -120,7 +120,7 @@ body {
 
   .nav-links {
     position: fixed;
-    top: -1; /* أو 75px لو تبيها تنزل شوي */
+    top: 0; /* أو 75px لو تبيها تنزل شوي */
     right: -100%;
     width: 250px;
     height: 100vh;
@@ -295,3 +295,4 @@ footer {
     flex-direction: column;
   }
 }
+
